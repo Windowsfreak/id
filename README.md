@@ -1,4 +1,4 @@
-# Digital Business Card for id.8bj.de
+# Digital Business Card for [id.8bj.de](https://id.8bj.de/)
 
 ## Overview
 This project implements a responsive digital business card hosted at `id.8bj.de`, designed to display personalized contact information, social links, and files. It supports dynamic loading of profiles based on URL paths (e.g., `id.8bj.de/pikachu`), vCard (VCF) generation, QR code creation, and a contact form for user submissions. The design features a clean, modern layout with Tailwind CSS and Font Awesome icons.
